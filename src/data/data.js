@@ -27,6 +27,13 @@ const platformInfo = [
     gitLink: "https://github.com/S4vad/React_Food_order_app",
     webLink: "https://react-food-order-app-duip.vercel.app/",
   },
+    {
+    title: "Nike Page Clone",
+    description:
+      "A responsive e-commerce UI built with React and Tailwind, featuring add-to-cart and dynamic product selection.",
+    gitLink: "https://github.com/S4vad/Nike_page_using_React_tailwindCss_responsive",
+    webLink: "https://nike-page-using-react-tailwind-css-responsive.vercel.app/",
+  },
   
   {
     title: "Intruder Detection System",
